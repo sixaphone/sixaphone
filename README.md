@@ -28,8 +28,9 @@ Worked on lots of projects in different tehnologies, and working on constantly i
 
 <br>
 
-
-<img  align="center" src="https://github-readme-stats.vercel.app/api?username=sixaphone&theme=radical&count_private=true" />
-<br>
-<br>
-<img width="500" height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sixaphone&theme=radical&count_private=true" />
+<div align="center">
+  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=sixaphone&theme=radical&count_private=true" />
+  <br>
+  <br>
+  <img width="500" height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sixaphone&theme=radical&count_private=true" />
+</div>
