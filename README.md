@@ -1,6 +1,4 @@
-# Me
-
-<h2>Hello there!👋🤓 I am Mirsad Halilcevic.</h2>
+# Hello there!👋🤓 I am Mirsad Halilcevic
 
 <h4>Enthusiastic developer focused on delivering cool stuff</h4>
 
