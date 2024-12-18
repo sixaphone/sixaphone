@@ -17,7 +17,7 @@ Worked on lots of projects in different tehnologies, and working on constantly i
 - [JalaScript](https://github.com/sixaphone/jalascript)  🚀
 - [LegoServer](https://github.com/sixaphone/lego_server)  🧱
 - [Car Simulation](https://github.com/sixaphone/drive-with-your-daddy-simulator) 🚗 
-- [Tech Jargon Generator](https://github.com/sixaphone/tech-jargon) 🚗 
+- [Tech Jargon Generator](https://github.com/sixaphone/tech-jargon) 👾 
 
 ### 💼 Where i am currently working at/as
 - [META5](https://meta5.io) 💼 -> CEO
