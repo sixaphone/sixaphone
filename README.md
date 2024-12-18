@@ -1,6 +1,8 @@
 # Me
 
-<h2>Hello there!👋🤓 I am Mirsad.</h2>
+<h2>Hello there!👋🤓 I am Mirsad Halilcevic.</h2>
+
+<h4>Enthusiastic developer focused on delivering cool stuff</h4>
 
 <p align="center">
 Started from <code>cout << "Hello world"</code> now We're here.
@@ -12,25 +14,14 @@ Worked on lots of projects in different tehnologies, and working on constantly i
 
 ### 💻 Stuff I am working on (or finished)
 
-- [JalaScript](https://greeetincard.crd.co)  🚀
-- [LegoServer](https://greeetincard.crd.co)  🧱
-- Laravel Context Builder  🚀 *coming soon*
+- [JalaScript](https://github.com/sixaphone/jalascript)  🚀
+- [LegoServer](https://github.com/sixaphone/lego_server)  🧱
+- [Car Simulation](https://github.com/sixaphone/drive-with-your-daddy-simulator) 🚗 
+- [Tech Jargon Generator](https://github.com/sixaphone/tech-jargon) 🚗 
 
 ### 💼 Where i am currently working at/as
-- [META5](https://meta5.io) 💼 -> CTO
+- [META5](https://meta5.io) 💼 -> CEO
 
 ### 📫 Where to find me
-- [Facebook](https://www.facebook.com/mirsad.m.halilcevic) 😏
 - [Twitter](https://twitter.com/sixaphone) 🐤
 - [LinkedIn](linkedin.com/in/mirsad-halilcevic/) 👨💼
-
---- 
-
-<br>
-
-<div align="center">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=sixaphone&theme=radical&count_private=true" />
-  <br>
-  <br>
-  <img width="500" height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sixaphone&theme=radical&count_private=true" />
-</div>
