@@ -6,9 +6,14 @@
 Started from <code>cout << "Hello world"</code> now We're here.
 Backend developer by day, everything else by night.
 Worked on lots of projects in different tehnologies, and working on constantly improving.  
+
+Check me out on https://bit-of-code.netlify.app/
 </p>
 
 <br>
+
+
+
 
 ### 💻 Stuff I am working on (or finished)
 
