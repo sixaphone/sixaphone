@@ -17,13 +17,16 @@ Check me out on https://bit-of-code.netlify.app/
 
 ### 💻 Stuff I am working on (or finished)
 
+- [NestJS-Drizzle](https://github.com/sixaphone/nestjs-drizzle) 💻
 - [JalaScript](https://github.com/sixaphone/jalascript)  🚀
 - [LegoServer](https://github.com/sixaphone/lego_server)  🧱
 - [Car Simulation](https://github.com/sixaphone/drive-with-your-daddy-simulator) 🚗 
 - [Tech Jargon Generator](https://github.com/sixaphone/tech-jargon) 👾 
 
-### 💼 Where i am currently working at/as
-- [META5](https://meta5.io) 💼 -> CEO
+### 💼 Professional
+
+- [@TrilonIO](https://meta5.io) <img alt=':trilon:' width="12px" height="12px" src='./trilon.png' /> → Senior Software Engineer
+- [@META5](#) 💼 →  Founder
 
 ### 📫 Where to find me
 - [Twitter](https://twitter.com/sixaphone) 🐤
